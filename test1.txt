@@ -1,0 +1,10 @@
+ Datentr„ger in Laufwerk C: ist Acer
+ Volumeseriennummer: CE0C-2543
+
+ Verzeichnis von C:\Users\olera\OneDrive\Dokumente\Weiterbildung(Online)\Git\MyProject
+
+21.03.2021  16:31    <DIR>          .
+21.03.2021  16:31    <DIR>          ..
+21.03.2021  16:31                 0 test1.txt
+               1 Datei(en),              0 Bytes
+               2 Verzeichnis(se), 43'482'193'920 Bytes frei
